@@ -1,0 +1,11 @@
+class StringExample2{
+    public static void main(String [] args){
+    String s1="I LOVE JAVA";
+    String [] words = s1.split("  ");
+    for(String result : words){
+        System.out.println(result);
+    }
+   System.out.println(s1.contains("j");
+
+}
+}
